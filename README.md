@@ -8,4 +8,8 @@ This is my personal account and it is not related to my corporate work.
 - :video_camera: My youtube channel: [https://youtube.rene-gern.de/](https://youtube.rene-gern.de/)
 - :clubs: I am a founding member of Freie Maker e.V. freie-maker.de (YouTube https://www.youtube.com/@freie-maker)
 
+## Contact
+
+You can contact me on Discord: https://discord.rene-gern.de/
+
 ![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=renebohne&show_icons=true&theme=catppuccin_mocha)
