@@ -12,8 +12,3 @@ This is my personal account and it is not related to my corporate work.
 
 You can contact me on Discord: https://discord.rene-gern.de/
 
-## Stats
-
-Everybody has stats, so here you go...!
-
-![René's GitHub stats](https://github-readme-stats.vercel.app/api?username=renebohne&show_icons=true&theme=catppuccin_mocha)
